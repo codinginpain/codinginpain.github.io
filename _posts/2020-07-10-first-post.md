@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Let's get it"
 date: 2020-07-10 23:26:28 -0400
 categories: jekyll update
 ---
