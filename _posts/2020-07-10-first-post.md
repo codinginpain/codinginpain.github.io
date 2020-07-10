@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 20202-07-10 23:26:28 -0400
+date: 2020-07-10 23:26:28 -0400
 categories: jekyll update
 ---
 
